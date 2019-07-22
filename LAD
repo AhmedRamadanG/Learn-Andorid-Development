@@ -1,3 +1,4 @@
 <TextView
   andorid:Text="Hello"
+  andorid:width_layout="150dp"
         />
