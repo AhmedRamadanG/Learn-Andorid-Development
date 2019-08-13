@@ -1,4 +1,5 @@
 <TextView
-  andorid:Text="Hello"
-  andorid:width_layout="150dp"
+  android:Text="Hello"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
         />
